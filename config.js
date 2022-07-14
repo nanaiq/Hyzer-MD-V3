@@ -1,7 +1,7 @@
 //=============『 Utama 』================== //
 global.owner = ['6285641476033'] 
-global.mods = [] 
-global.prems = [] 
+global.mods = ['6285641476033'] 
+global.prems = ['6285641476033'] 
 
 //=============『 Info Owner 』============== //
 global.nameowner = 'X'
@@ -9,7 +9,7 @@ global.numberowner = '6285641476033'
 global.instagram = 'http://tiny.cc/Nathalie'
 global.github = 'http://tiny.cc/Nathalie'
 global.dana = '085641476033'
-global.pulsa = '085'
+global.pulsa = '081227250948'
 global.gopay = '085641476033'
 
 //=============『 Info Bot 』=================//
@@ -19,17 +19,17 @@ global.web = 'http://tiny.cc/Nathalie' //ubah jadi website lu, bisa link ig, lin
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
-global.fotonya1 = 'https://telegra.ph/file/e4a2f4339da8a32ad20a1.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/8c471d45b6cedad43cf84.jpg' //ini juga ganti 
+global.fotonya1 = 'https://telegra.ph/file/6daffe7a858629323dd10.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://telegra.ph/file/6daffe7a858629323dd10.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = 'X-ZC'
 global.watermark = wm
-global.wm2 = '                     「 𝚂𝙷𝙸𝚁𝙾-𝙼𝙳 あ⁩ 」'
+global.wm2 = '                         「 IG @hai_om.qw⁩ 」'
 global.wm3 = 'X-ZC'
 global.htki = '––––––『' 
 global.htka = '』––––––'
-global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
+global.media = 'https://telegra.ph/file/6daffe7a858629323dd10.jpg'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.wait = '_*tunggu sedang di proses...*_'
 global.eror = '_*Server Error*_'
